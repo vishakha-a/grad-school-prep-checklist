@@ -28,20 +28,22 @@ SOP:
 - [ ] http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html
 
 Scholarships:
-Facebook fellowship program
-Microsoft PhD fellowship
-Bloomberg Data Science PhD fellowship
-Congressional Innovation Scholars Program
-Adobe Research
-IBM Research 
-College-specific scholarships
-SIB
-Education Future International Scholarship
-J.N. Tata Endowment
-French Government Scholarships
-Simplr AI scholarship
-The Open Phil AI fellowship
-ACM SIGHPC Computational & Data Science Fellowships
-Google PhD fellowship
-Qualcomm Innovation Fellowship
-TNRF-TWAS PhD fellowships
+- Facebook fellowship program
+- Microsoft PhD fellowship
+- Bloomberg Data Science PhD fellowship
+- Congressional Innovation Scholars Program
+- Adobe Research
+- IBM Research 
+- College-specific scholarships
+- SIB
+- Education Future International Scholarship
+- J.N. Tata Endowment
+- French Government Scholarships
+- Simplr AI scholarship
+- The Open Phil AI fellowship
+- ACM SIGHPC Computational & Data Science Fellowships
+- Google PhD fellowship
+- Qualcomm Innovation Fellowship
+- TNRF-TWAS PhD fellowships
+
+Labs I like:
