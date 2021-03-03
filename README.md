@@ -47,3 +47,7 @@ Scholarships:
 - TNRF-TWAS PhD fellowships
 
 Labs I like:
+- Identity Lab, UC Boulder
+- Santa Fe Institute for Complex Systems
+- HCI Lab, Brown University
+- Social Data Science Lab at School of Computing and Information Systems, Singapore Management University
